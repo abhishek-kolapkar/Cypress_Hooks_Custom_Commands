@@ -1,1 +1,1 @@
-![test_execution_result](cypress\screenshot\tests_execution.png)
+<img src="cypress\screenshot\tests_execution.png" alt="test_execution_result" />
